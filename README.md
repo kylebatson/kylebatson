@@ -4,3 +4,6 @@
 - 🌱 I’m currently learning how to live fully and love life along the way.  
 - 💞️ I’m open to collaborating on exciting projects, big or small.  
 - 📫 How to reach me: try my email @ kyleb598@gmail.com 
+
+
+Get to know me a bit more: https://personal-react-website-iksr7qw9s-kyle-batsons-projects.vercel.app/
